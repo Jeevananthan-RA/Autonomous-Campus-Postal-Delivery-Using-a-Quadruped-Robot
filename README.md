@@ -174,6 +174,10 @@ Dynamic obstacle detection
 
 Manual override via dashboard
 
+# Excepted Outcomes
+
+![image]
+
 ## 🔮 Future Work
 
 RTK-GPS for higher positioning accuracy
