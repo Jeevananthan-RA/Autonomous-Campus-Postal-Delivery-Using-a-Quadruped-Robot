@@ -176,7 +176,7 @@ Manual override via dashboard
 
 # Excepted Outcomes
 
-![image]
+![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/f45eb4ee126aea48dfe1b3db93b62bfefb865e00/Outcomes.png)
 
 ## 🔮 Future Work
 
